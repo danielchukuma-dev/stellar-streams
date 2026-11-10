@@ -46,7 +46,7 @@
     "@commitlint/config-conventional": "^21.2.0",
     "@stellar-starter-kit/eslint-config": "workspace:*",
     "@types/react": "^19.0.0",
-    "eslint": "^9.39.5",
+    "eslint": "^10.14.0",
     "husky": "^9.0.11",
     "lint-staged": "^17.2.0",
     "prettier": "3.9.5",
